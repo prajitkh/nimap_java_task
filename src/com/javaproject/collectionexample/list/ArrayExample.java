@@ -12,8 +12,8 @@ public class ArrayExample {
 public static void main(String[] args) {
 	
 	ArrayList<String> ss=new ArrayList<>();
-	ss.add("TCS");
-	ss.add("Nimap");
+ss.add("Nimap");
+	ss.add("PRM");
 	ss.add("Honor");
 	
 try {

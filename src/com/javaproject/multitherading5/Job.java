@@ -13,7 +13,7 @@ public class Job extends Thread{
 		
 	}
 
- synchronized static	private void withDraw(int ammount) {
+ synchronized static private void withDraw(int ammount) {
 	System.out.println(Thread.currentThread().getName());
 	if(balance >150)	{
 	 balance=balance-ammount;

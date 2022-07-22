@@ -1,4 +1,4 @@
-package com.javaproject.collectionexample.map;
+package com.javaproject.collection;
 
 import java.util.TreeMap;
 
